@@ -1,4 +1,4 @@
-# Simple Video.js Player Codepen Embed
+# Simple Video.js Player Embed
 
 
 
